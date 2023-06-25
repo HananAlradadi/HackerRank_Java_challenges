@@ -1,5 +1,5 @@
 # HackerRank_challenges
-Solve Me First
+HackerRank challenges solutions using java
 - [Welcome to Java!](https://github.com/HananAlradadi/HackerRank_Java_challenges/tree/main)
 - [Solve Me First](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/SolveMeFirst.java)
 - [Java Output Formatting](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/JavaOutputFormatting.java)

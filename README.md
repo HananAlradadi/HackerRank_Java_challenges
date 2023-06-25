@@ -1,7 +1,11 @@
 # HackerRank_challenges
 Solve Me First
-- []()
+- [Welcome to Java!](https://github.com/HananAlradadi/HackerRank_Java_challenges/tree/main)
 - [Solve Me First](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/SolveMeFirst.java)
+- [Java If-Else](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/JavaIf_Else.java)
+- []()
+- []()
+- [Calculate basic math](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/CalculateBasicMath.java)
 - [Simple Array Sum](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/SimpleArraySum.java)
 - [A Very Big Sum](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/AVeryBigSum.java)
 - [Diagonal Difference](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/DiagonalDifference.java)

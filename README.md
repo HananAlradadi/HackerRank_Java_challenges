@@ -17,7 +17,6 @@ Solve Me First
 - [ASCII to Character](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/ASCIIToCharacter.java)
 - [Java Anagrams](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/JavaAnagrams.java)
 - [Java String Reverse](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/JavaStringReverse.java)
-- 
 - [What is my SUM](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/WhatIsMySUM.java)
 - [Calculate basic math](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/CalculateBasicMath.java)
 - [Simple Array Sum](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/SimpleArraySum.java)
@@ -47,7 +46,8 @@ Solve Me First
 - [Prime Checker](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/PrimeChecker.java)
 - [Java Varargs - Simple Addition](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/JavaVarargsSimpleAddition.java)
 - [Java Exception Handling](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/JavaExceptionHandling.java)
-- []()
-- []()
-- []()
+- [Java Inheritance I](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/JavaInheritanceI.java)
+- [Insert a node at a specific position in a linked list](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/InsertANodeAtASpecificPositionInALinkedList.java)
+- [Reverse Game](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/ReverseGame.java)
+- [Print the Elements of a Linked List](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/PrintTheElementsOfALinkedList.java)
 

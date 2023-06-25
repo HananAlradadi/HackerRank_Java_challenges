@@ -8,7 +8,7 @@ Solve Me First
 - [Plus Minus](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/PlusMinus.java)
 - [Staircase](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/Staircase.java)
 - [Mini-Max Sum](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/MiniMaxSum.java)
-- [Birthday Cake Candles]()
+- [Birthday Cake Candles](https://github.com/HananAlradadi/HackerRank_Java_challenges/blob/main/BirthdayCakeCandles.java)
 - []()
 - []()
 - []()
